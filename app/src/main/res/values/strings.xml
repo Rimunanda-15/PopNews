@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopNews</string>
+    <string name="top_headlines">Berita Populer</string>
+    <string name="browse">buka di browser</string>
+    <string name="share">Bagikan</string>
+    <string name="save">Baca nanti</string>
+    <string name="listen">Listen</string>
+    <string name="internet_warming">Check your Internet Connection and Try Again!</string>
+    <string name="news_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+</resources>
