@@ -9,7 +9,7 @@ interface NewsApi {
     //https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=your_api_key
 
 
-    @GET("https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=19286782e7b3453796cb38ec1ff74c3b")
+    @GET("https://newsapi.org/v2/top-headlines?country=us&apiKey=19286782e7b3453796cb38ec1ff74c3b")
     fun getNews(@Query("country") country : String, @Query("category") category : String?, @Query("apiKey") key : String) : Call<NewsDataFromJson>
 
 
